@@ -9,15 +9,15 @@ body {
 }
 
 .calculator {
-    background-color: #1c1c1c;
+    background-color: #2f3e46;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 }
 
 .display input{
-    background-color: #000;
-    color: #fff;
+    background-color: #cad2c5;
+    color: #000;
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
@@ -37,7 +37,7 @@ body {
 }
 
 .button {
-    background-color: #4CAF50;
+    background-color: #84a98c;
     border: none;
     color: white;
     padding: 15px 32px;

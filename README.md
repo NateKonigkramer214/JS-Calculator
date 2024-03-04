@@ -18,7 +18,7 @@ To set up and run the project locally on your machine, follow the steps below:
 
 # My Intent with this simple app was just a custom calculator for work
 ## Deployment as a Windows App
-
+<img src="https://i.imgur.com/RWkVCAH.png">
 This web application can be packaged as a desktop application for Windows using Electron. Here are the general steps:
 
 1. Install Node.js and npm on your machine.
